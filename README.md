@@ -13,6 +13,9 @@ The **Scream Detection System** is an AI-powered application designed to detect 
 ### 🔹 Prerequisites
 Ensure you have Python installed (version 3.8+ recommended). You also need the following dependencies:
 
+Download the dataset
+https://www.kaggle.com/datasets/whats2000/human-screaming-detection-dataset
+
 ```sh
 pip install sounddevice numpy librosa tensorflow pywhatkit geocoder tkinter
 ```
