@@ -41,7 +41,7 @@ scream-detection/
 │   │── features.csv    # Extracted dataset features
 │   │── scream_detector_model.h5  # Pre-trained model
 │── gui/
-│   │── scream_detection_gui.py  # GUI application
+│   │── real_time_detection.py  # GUI application
 │── dataset/
 │   │── (Raw audio files for training)
 ```
